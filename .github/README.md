@@ -27,6 +27,8 @@
 [![Matrix](https://img.shields.io/badge/Matrix-40aa8b.svg?style=flat-square&logo=Matrix&logoColor=white)](https://matrix.to/#/#nvchad:matrix.org)
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nvchad_tg)
 
+</div>
+
 <h2>NvChad example:</h2>
 
 ## CHANGELOG:
@@ -41,4 +43,3 @@
 - Keybinding for `tree`/"Side Menu" to `Ctrl-\` (or in vim terms called: '<C-\\>')
 - Keybinding for `fzf` file finder to `Ctrl-p` ('<C-p>') more aligned towards VSCode Keybindings
 
-</div>
