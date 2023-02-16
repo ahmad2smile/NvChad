@@ -41,6 +41,8 @@ local plugins = {
       require "custom.plugins.null-ls"
     end,
   },
+
+  ["tpope/vim-surround"] = {}
   -- remove plugin
   -- ["hrsh7th/cmp-path"] = false,
 }
